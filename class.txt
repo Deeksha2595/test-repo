@@ -1,1 +1,13 @@
-HELLO WORLD! ALL IS WELL!
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
